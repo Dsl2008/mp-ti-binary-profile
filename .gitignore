@@ -1,0 +1,10 @@
+# 你的 API key，永远不要提交
+api_key.txt
+
+# Python 垃圾
+__pycache__/
+*.pyc
+
+# 编辑器和系统垃圾
+.vscode/
+Thumbs.db
